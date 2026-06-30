@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5g0169/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5g0169/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 上清九天上帝祝百神內名經
+  date: '2015-08-29 02:59:30.207053'
+  source:
+    repository: kanripo
+    path: KR5g0169
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0169_000-ZTDZ.yaml, hash: 'sha256:1ecb0a6f962cc6d4a3949c3b8ce501ef1ca857b5f878f07478a20e04b54bcaff'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0169_000-ZTDZ.markers.yaml, hash: 'sha256:c5cc512456f3f47c0244f080dac3ea101177f22ba5c02a60477c12877c1dc90c'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0169_SJB_000-330788b
+    span:
+    - body
+    - 0
+    - 2661
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:f8d7c20f88aab65360805ed5823062638e3c7f13e2deb6b6fa9bc9f333d30bde
